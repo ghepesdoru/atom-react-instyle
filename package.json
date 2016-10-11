@@ -2,10 +2,21 @@
   "name": "atom-react-instyle",
   "main": "./lib/main",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "CSS/SASS/SCSS to React Native",
   "keywords": [
+    "css",
+    "scss",
+    "sass",
+    "conversion",
+    "style to js",
+    "style to react",
+    "css to react native",
+    "scss to react native"
   ],
   "repository": "https://github.com/ghepesdoru/atom-react-instyle",
+  "bugs": {
+    "url": "https://github.com/ghepesdoru/atom-react-instyle/issues"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
