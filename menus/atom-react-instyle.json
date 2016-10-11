@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Instyle Convert",
+        "command": "atom-react-instyle:convert"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Instyle",
+          "submenu": [
+            {
+              "label": "Convert",
+              "command": "atom-react-instyle:convert"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

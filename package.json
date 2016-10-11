@@ -1,0 +1,17 @@
+{
+  "name": "atom-react-instyle",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "repository": "https://github.com/ghepesdoru/atom-react-instyle",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.0.0",
+    "react-instyle": "0.0.5"
+  }
+}

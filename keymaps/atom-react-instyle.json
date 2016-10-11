@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-cmd-c": "atom-react-instyle:convert"
+  }
+}
