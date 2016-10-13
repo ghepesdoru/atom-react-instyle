@@ -48,7 +48,7 @@
     "title": "Escape property names",
     "description": "Determine if property names will be escaped in the output.",
     "type": "string",
-    "default": "yes",
+    "default": "no",
     "enum": [
       { "value": "yes", "description": "Always escape property names." },
       { "value": "no", "description": "Only escape property names when required." }
