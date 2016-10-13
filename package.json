@@ -23,6 +23,6 @@
   },
   "dependencies": {
     "atom-space-pen-views": "^2.0.0",
-    "react-instyle": "0.0.7"
+    "react-instyle": "0.0.8"
   }
 }
