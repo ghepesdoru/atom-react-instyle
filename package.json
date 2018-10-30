@@ -1,7 +1,7 @@
 {
   "name": "atom-react-instyle",
   "main": "./lib/main",
-  "version": "0.2.8",
+  "version": "0.3.0",
   "description": "CSS/SASS/SCSS to React Native",
   "keywords": [
     "css",
